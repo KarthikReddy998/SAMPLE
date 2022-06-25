@@ -1,2 +1,1 @@
-heloo
-hello
+print("hello")

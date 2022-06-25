@@ -1,4 +1,4 @@
-
+# fkkkk
 def countSubstr(str, n, b, a):
 
     tot_count = 0
